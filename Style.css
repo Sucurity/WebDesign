@@ -1,0 +1,63 @@
+body{
+	background-color: #ecf0f1;
+	font-family: 'Open Sans', serif;
+	Color: #2c3e50;
+}
+
+#celek {
+background-color: White;
+width: 50%;
+height: 80%;
+margin-left: auto;
+margin-right: auto;
+
+}
+#header{
+	background-color:#3498db;
+	color: white;
+	text-align: center;
+
+}
+
+#menu {
+background-color: #ecf0f1;
+height: 10%;
+font-size: 80%;
+font-weight:bold;
+width: 30%;
+float: left;
+margin: 2%;
+}
+
+#my {
+Color: #2c3e50;
+background-color: white;
+width: 40%;
+height: 100%;
+font-size: 90%;
+font-weight:bold;
+text-align: center;
+float: right;
+margin: 2%;
+margin-right: 12%;
+ 
+}
+
+#kont
+{
+margin: 5%;	
+padding: 30px;}
+
+
+#telo
+{clear: both;
+margin: 7%;
+font-size: 70%;
+}
+#pata
+{clear: both;
+margin: 2%;
+}
+
+
+
